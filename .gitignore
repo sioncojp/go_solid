@@ -1,0 +1,10 @@
+# IDE files
+.vscode/
+.idea/
+
+# filesystem
+.DS_Store
+.swp
+
+### .gitkeep ###
+!.gitkeep
